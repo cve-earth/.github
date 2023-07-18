@@ -22,7 +22,22 @@ The tech industry has designed effective mechanisms, such as CVE®[^1], to publi
 
 - **Track and record EVD resolutions:** We will keep track of EVD resolutions to ensure accountability and facilitate progress tracking.
 
-## Join the Conversation
+## Disclosures Repository
+
+Our [Disclosures Repository](https://github.com/cve-earth/disclosures) serves as a central hub for reporting and tracking corporate environmental vulnerabilities. It allows for open, transparent reporting and fosters a community-driven effort to hold corporations accountable for their environmental impact.
+
+### How to Use
+
+The process for reporting an environmental vulnerability is simple and straightforward:
+
+1. Visit the [Disclosures Repository](https://github.com/cve-earth/disclosures/issues/new/choose).
+2. Click on "New issue", and select the "Environmental Vulnerability Disclosure" option.
+3. Fill in the provided template with as much detail as possible. The more information you can provide, the better.
+4. Once you're done, click "Submit new issue". Your disclosure will now be publicly accessible and open for discussion and investigation.
+
+By submitting a disclosure, you're helping to shed light on environmental harm and driving accountability. Every contribution, no matter how small, brings us one step closer to a more sustainable future.
+
+## Join us
 
 CVE.Earth is in its early days, and we welcome all those who are passionate about environmental sustainability. If you want to join or contribute to this project or have ideas you want to share, please [join this discussion](https://github.com/orgs/cve-earth/discussions/1). Together, we can make a significant, lasting impact on our planet's future.
 
