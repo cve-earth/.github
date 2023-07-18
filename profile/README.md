@@ -17,4 +17,8 @@ This industry has designed mechanisms (CVE®[^1]) to publicly hold to account co
 - Educate and encourage the public/audit firms/corporations to submit actionable, impactful & specific EVDs
 - Track and record EVD resolutions
 
+## Let's talk
+
+If you want to join or contribute to this project or have ideas you want to share then please [join this discussion](https://github.com/orgs/cve-earth/discussions/1)
+
 [^1]: CVE description copyright © 2021, [The MITRE Corporation](https://cve.mitre.org/about/termsofuse.html)
