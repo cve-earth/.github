@@ -41,4 +41,9 @@ By submitting a disclosure, you're helping to shed light on environmental harm a
 
 CVE.Earth is in its early days, and we welcome all those who are passionate about environmental sustainability. If you want to join or contribute to this project or have ideas you want to share, please [join this discussion](https://github.com/orgs/cve-earth/discussions/1). Together, we can make a significant, lasting impact on our planet's future.
 
+## Discussions
+
+- [Call for maintainers/contributors - Join the Conversation: Shaping the Future of CVE.Earth](https://github.com/orgs/cve-earth/discussions/1)
+- [Tooling for CVE.Earth - Suggestions and Ideas](https://github.com/orgs/cve-earth/discussions/2)
+
 [^1]: CVE description copyright © 2021, [The MITRE Corporation](https://cve.mitre.org/about/termsofuse.html)
