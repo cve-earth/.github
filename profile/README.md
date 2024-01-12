@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 # CVE.Earth
 
 In today's digital world, technology has an immense influence. The software industry, in particular, has advanced at a remarkable pace, largely due to our proficiency in improving, securing, and developing software.
