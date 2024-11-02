@@ -33,7 +33,7 @@ Our [Disclosures Repository](https://github.com/cve-earth/disclosures) serves as
 The process for reporting an environmental vulnerability is simple and straightforward:
 
 1. Visit the [Disclosures Repository](https://github.com/cve-earth/disclosures/issues/new/choose).
-2. Click on "New issue", and select the "Environmental Vulnerability Disclosure" option.
+2. Click on "New issue", and select the ["Environmental Vulnerability Disclosure"](https://github.com/cve-earth/disclosures/issues/new?assignees=&labels=EVD-report%2Cunverified&projects=&template=evd.yml&title=%5BEVD%5D+%3A) option.
 3. Fill in the provided template with as much detail as possible. The more information you can provide, the better.
 4. Once you're done, click "Submit new issue". Your disclosure will now be publicly accessible and open for discussion and investigation.
 
